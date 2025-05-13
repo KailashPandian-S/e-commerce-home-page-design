@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.logo-dcart-home {
+
+    height: 40px;
+    width: 40px;
+
+}
+
+
+
+#navitem1 {
+
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: lighter;
+
+}
+
+
+
+#navitem2 {
+
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: lighter;
+
+}
+
+
+
+
+#navitem3 {
+
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: lighter;
+
+}
+
+
+
+
+#navitem4 {
+
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: lighter;
+
+}
+
+
+
+#dropdownitem1 {
+    font-family: "Roboto";
+    font-size: 15px;
+
+}
+
+
+#dropdownitem2 {
+    font-family: "Roboto";
+    font-size: 15px;
+
+}
+
+
+
+
+#dropdownitem3 {
+    font-family: "Roboto";
+    font-size: 15px;
+
+}
+
+
+
+
+#dropdownitem4 {
+    font-family: "Roboto";
+    font-size: 15px;
+
+}
+
+
+
+
+#dropdownitem5 {
+    font-family: "Roboto";
+    font-size: 15px;
+
+}
+
+
+
+#dropdownitem6 {
+    font-family: "Roboto";
+    font-size: 15px;
+
+}
+
+
+.categories-home {
+
+    background-color: #252624;
+    margin-top: 20px;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 150px;
+
+
+}
+
+.category-card {
+    background-color: #cfcfcf;
+
+    color: White;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+
+
+}
+
+
+.category-card-heading {
+
+    color: black;
+    font-size: 12px;
+    padding: 10px;
+
+}
+
+
+
+
+.category-products-home {
+    height: 50px;
+    width: 70px;
+    text-align: center;
+    margin: 10px;
+
+
+}
+
+
+.category-products-home-images {
+    height: 50px;
+    width: 45px;
+}
+
+.category-products-home-description {
+    color: black;
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+.moreitems-category {
+    margin-top: 40px;
+    margin-left: 70vw;
+    color: black;
+    font-size: 11px;
+
+}
+
+
+.clothing-image {
+
+    background-image: url("https://res.cloudinary.com/dclzanvfo/image/upload/v1732644208/Designer_bd9jei.jpg");
+    background-size: cover;
+    height: 30vh;
+    margin-bottom: 70px;
+}
+
+
+
+.category-clothes {
+    margin-top: 0px;
+    background-color: #f5d9d7;
+    padding-top: 70px;
+}
+
+
+.shoes-offer {
+    background-image: url("https://img.freepik.com/free-photo/young-couple-love-posing-old-town-cropped-feet_285396-3218.jpg?t=st=1732645527~exp=1732649127~hmac=73bca976929cece78b11fd66f8a5e71e701ed172a55ade501d08e82c18d30002&w=1060");
+    background-size: cover;
+    height: 35vh;
+}
+
+
+.shoes-offer-text {
+    font-family: Bree serif;
+    padding: 10px;
+
+    background-color: #001126;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.category-toys {
+    margin-top: 0px;
+    padding-top: 100px;
+    background-color: #1f3480;
+    padding-bottom: 100px;
+}
+
+
+.furniture-offer {
+    background-color: white;
+    background-image: url("https://img.freepik.com/free-photo/scandinavian-vintage-wood-cabinet-with-chair-by-dark-blue-wall_53876-98164.jpg?t=st=1732698721~exp=1732702321~hmac=5b1551a416b3d2efd097191d76a969ac00e58f2a738bb04413e6a8c86d7a64b9&w=740");
+    background-size: cover;
+    height: 400px;
+}
+
+.furniture-offer-text {
+    color: white;
+    font-family: Sans-Serif;
+    font-size: 45px;
+
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.furniture-text-2 {
+    font-size: 20px;
+    font-family: "Caveat";
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+
+
+.category-furniture {
+    background-color: #d6d6b6;
+    margin-top: 0px;
+}
